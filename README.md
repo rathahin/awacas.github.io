@@ -1,2 +1,2 @@
-# awakes.github.io
+# awacas.github.io
 static only for temporary hosting startup game studio
